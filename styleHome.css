@@ -1,0 +1,32 @@
+body{
+    background-color: #f3f9ef;
+}
+
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #e96f50;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+
+}
+.logo{
+  text-align: center;
+  margin-left: auto;
+  padding-bottom: 50px;
+}
+  
+  .btn:hover {
+    background: #eb471e;
+    text-decoration: none;
+  }
+  .container{
+      position: absolute;
+      margin: 200px 660px;
+      text-align: center;
+  }
